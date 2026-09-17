@@ -1,0 +1,1 @@
+Le joueur doit d'abord prendre la hache afin de pouvoir brisé le barricades devant la porte du manoir et ainsi entrer. De plus, à l'intérieur, s'il marche vers le porte de gauche,  un piège l'attend au pied de la porte qui l'emmene au screen "game over..." mais si il part è sa doite, il se téléporte au screen "you win!".
