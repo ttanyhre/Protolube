@@ -8,5 +8,17 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_/Scenes/insidehouse.unity
+    guid: 87d68931df4316c4e8563a8d685fac5c
+  - enabled: 1
+    path: Assets/_/Scenes/protolude.unity
+    guid: f5d4ad8971ec96249a10237b9359d0a6
+  - enabled: 1
+    path: Assets/_/Scenes/win.unity
+    guid: 686480a9df823324e98bebf6339bc3f0
+  - enabled: 1
+    path: Assets/_/Scenes/lost.unity
+    guid: 65d785fda9455e94ca93475c0f99f84b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
